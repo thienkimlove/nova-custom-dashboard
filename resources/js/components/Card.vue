@@ -1,6 +1,6 @@
 <template>
     <card class="flex flex-col items-center justify-center">
-        <div class="px-3 py-3">
+        <div class="px-3 py-3 w-full">
             <h1 class="text-center text-3xl text-80 font-light">Nova Custom Dashboard</h1>
         </div>
     </card>
